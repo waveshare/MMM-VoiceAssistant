@@ -1,0 +1,11 @@
+{
+  "name": "mmm-voice-assistant",
+  "version": "0.0.0",
+  "description": "Voice Assistant Module",
+  "main": "MMM-VoiceAssistant.js",
+  "private": true,
+  "author": {
+    "name": "MyMX1213"
+  },
+  "dependencies": {}
+}
