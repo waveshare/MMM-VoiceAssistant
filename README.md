@@ -1,6 +1,6 @@
-# MMM-GoogleAssistant
+# MMM-VoiceAssistant
 
-Google Assistant module for your Magic Mirror.
+Voice Assistant module for your Magic Mirror.
 
 You can now ask questions to your MagicMirror powered by Google Assistant.
 
